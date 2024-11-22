@@ -1,15 +1,19 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+title,Title
+organization,Creator,,
+date_founded,Date Founded,,
+description,Description,,
+speciality,Speciality,,
+subject,Subjects,,
+city,City,,
+state,State,,
+country,Country,,
+website,Website,,true
+email,Email,,true
+facebook,Facebook,,true
+instagram,Instagram,,true
+youtubechannel,YouTube Channel,,true
+tiktok,TikTok,,true
+X,X,,true
+phonenumber,Phone Number,,true
+address,Address,,true
