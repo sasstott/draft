@@ -1,5 +1,5 @@
 display_name,stub,dropdown_parent
-Home,/
+Home,/home.html
 Browse,/browse.html
 Subjects,/subjects.html
 Locations,/locations.html
@@ -7,4 +7,4 @@ Map,/map.html
 Timeline,/timeline.html
 Data,/data.html
 About,/about.html
-T.A.P.S./taps_family.html,
+T.A.P.S./taps_family.html
