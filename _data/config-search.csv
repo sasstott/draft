@@ -5,3 +5,8 @@ creator,true,false
 description,true,true
 subject,true,true
 location,true,false
+city,true,true
+state,true,true
+country,true,true
+organization,true,true
+speciality,true,true
