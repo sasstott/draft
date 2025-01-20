@@ -28,6 +28,13 @@ Some technical details will help users most effectively use this website. Firstl
 
 Finally, I would like to thank my advisor John Walsh, professor of the course, Digital Libraries, during which this website was created, Gyuri Kang, the Assistant Instructor for the aforementioned course, and my classmates from the Digital Libraries course for their support and assistance in the development of this website. I would also like to express my appreciation for the ParanormalSocieties.com directory, without which this project would not have been possible.
 
+Creator: Sasha Goryl - Third Year PhD Student in information science at Indiana University and archival assistant with the Indiana University Archives.
+
+Controlled vocabularies used:
+Format: MIME Media Types
+City, State and Country : Getty Thesaurus of Geographic Names
+Specialty, Subject: American Folklore Society Ethnographic Thesaurus
+
 
 {% include feature/pdf.html objectid="assets/img/map2.pdf"%}
 
