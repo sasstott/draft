@@ -12,13 +12,9 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-{% include feature/image.html objectid="assets/img/map2.pdf"%}
-
-{% include feature/image.html objectid="assets/img/map.pdf"%}
-
-
-
 ## About the Collection
+
+
 
 {% include feature/pdf.html objectid="assets/img/map2.pdf"%}
 
