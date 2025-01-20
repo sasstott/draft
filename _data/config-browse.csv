@@ -4,3 +4,16 @@ organization,Organization,,,organization
 subject,Subject,,,subject
 location,Location,,,location
 speciality,Speciality,,,speciality
+city,City,,,city
+state,State,,,state
+country,Country,,,country
+description,Description,,,description
+website,Website,,,website
+email,Email Address,,,email
+youtubechannel,YouTube Channel,,,youtubechannel
+tiktok,Tik Tok,,,tiktok
+phonenumber,Phone Number,,,phonenumber
+facebook,Facebook,,,facebook
+instagram,Instagram,,,instagram
+X,X,,,X
+address,Address,,,address
