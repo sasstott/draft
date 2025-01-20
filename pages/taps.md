@@ -8,4 +8,4 @@ permalink: /taps.html
 
 # T.A.P.S.
 
-Here's my T.A.P.S. page!
+Welcome to the T.A.P.S. (The Atlantic Paranormal Society) page. T.A.P.S. is a paranormal society, founded in 1990, that provides free and confidential investigations to those who believe they have experienced paranormal phenomena.
