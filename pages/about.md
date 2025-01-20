@@ -20,6 +20,6 @@ credits: true
 
 ## About the Collection
 
-{% include feature/image.html objectid="assets/pdf/map2.pdf"%}
+{% include feature/pdf.html objectid="assets/img/map2.pdf"%}
 
-{% include feature/image.html objectid="assets/pdf/map.pdf"%}
+{% include feature/pdf.html objectid="assets/img/map.pdf"%}
